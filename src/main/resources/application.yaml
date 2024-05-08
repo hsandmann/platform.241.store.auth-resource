@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: store-auth
+    name: auth
 
 management:
   endpoints:
